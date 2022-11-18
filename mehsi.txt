@@ -7,7 +7,7 @@
 <h3> madhu </h3>
 <h4> kiruthika </h4>
 <h5> naveen </h5>
-<h6> logii </h6>
+<h6> loki </h6>
 hello 
 </head>
 </html>
